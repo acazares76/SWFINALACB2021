@@ -1,0 +1,37 @@
+{
+    "name":"Mascotas",
+    "short_name":"PWA Mascotas",
+    "description":"Proyecto de una pwa de mascotas",
+    "start_url":"index.html",
+    "theme_color":"#fff",
+    "background_color":"#ff69b4",
+    "orientation":"portrait",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"img/mascota32.png",
+            "sizes":"32x32",
+            "type":"image/png"
+        },
+        {
+            "src":"img/mascota64.png",
+            "sizes":"64x64",
+            "type":"image/png"
+        },
+        {
+            "src":"img/mascota256.png",
+            "sizes":"256x256",
+            "type":"image/png"
+        },
+        {
+            "src":"img/mascota512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }   
+    ]
+
+
+
+    
+
+}
